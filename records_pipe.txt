@@ -1,0 +1,10 @@
+Johnson | Mark	| Male | Brown | 3/18/1971
+Adams | John | Male | Orange | 11/6/1993
+Brown | Tim	| Male | Purple | 2/8/1981
+Thomas | Wendy	| Female | Blue | 5/8/1979
+Thomas | Katie	| Female | Green | 12/11/1963
+Thompson | Ashley	| Female | Blue | 3/28/1990
+Hamilton | Kristy	| Female | Green | 10/11/2011
+Owens | Sean	| Male | Yellow | 5/20/2011
+Ferretti | Georgia	| Female | Red | 12/17/1988
+Sutton | Kathy	| Female | Blue | 2/18/2012
